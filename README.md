@@ -1,5 +1,5 @@
 ## RAILWAY RESERVATION SYSTEM
-should be able to manage all the reservation related functions.
+This website should be able to manage all the reservation related functions.
 Each zone should have same functionalities. Each zone will stores the information about train name, train schedules, availability. 
 The administrator should be able to enter any change related to the train information like change in train name, number etc. 
 The system should be able to reserve seat in a train for a passenger. 
